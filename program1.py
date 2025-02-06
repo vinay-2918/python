@@ -13,3 +13,6 @@ print(type(dic))
 #String 
 st = "hello wolrd"
 print(type(st))
+#intger
+a = 10
+print(type(a))
